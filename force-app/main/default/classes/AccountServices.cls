@@ -1,5 +1,5 @@
 public with sharing class AccountServices {
-    public AccountServices() {
-
+    public static void foo(List<Account> accounts) {
+        //do something
     }
 }
